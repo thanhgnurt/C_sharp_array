@@ -1,0 +1,12 @@
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\ChenHaiMangVaoNhau\bin\Debug\netcoreapp3.1\ChenHaiMangVaoNhau.exe
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\ChenHaiMangVaoNhau\bin\Debug\netcoreapp3.1\ChenHaiMangVaoNhau.deps.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\ChenHaiMangVaoNhau\bin\Debug\netcoreapp3.1\ChenHaiMangVaoNhau.runtimeconfig.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\ChenHaiMangVaoNhau\bin\Debug\netcoreapp3.1\ChenHaiMangVaoNhau.runtimeconfig.dev.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\ChenHaiMangVaoNhau\bin\Debug\netcoreapp3.1\ChenHaiMangVaoNhau.dll
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\ChenHaiMangVaoNhau\bin\Debug\netcoreapp3.1\ChenHaiMangVaoNhau.pdb
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\ChenHaiMangVaoNhau\obj\Debug\netcoreapp3.1\ChenHaiMangVaoNhau.AssemblyInfoInputs.cache
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\ChenHaiMangVaoNhau\obj\Debug\netcoreapp3.1\ChenHaiMangVaoNhau.AssemblyInfo.cs
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\ChenHaiMangVaoNhau\obj\Debug\netcoreapp3.1\ChenHaiMangVaoNhau.csproj.CoreCompileInputs.cache
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\ChenHaiMangVaoNhau\obj\Debug\netcoreapp3.1\ChenHaiMangVaoNhau.dll
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\ChenHaiMangVaoNhau\obj\Debug\netcoreapp3.1\ChenHaiMangVaoNhau.pdb
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\ChenHaiMangVaoNhau\obj\Debug\netcoreapp3.1\ChenHaiMangVaoNhau.genruntimeconfig.cache

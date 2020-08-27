@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exerise_Array/1.0.0": {
+        "runtime": {
+          "Exerise_Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exerise_Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

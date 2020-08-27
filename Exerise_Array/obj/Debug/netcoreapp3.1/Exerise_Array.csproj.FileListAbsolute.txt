@@ -1,0 +1,13 @@
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\Exerise_Array\bin\Debug\netcoreapp3.1\Exerise_Array.exe
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\Exerise_Array\bin\Debug\netcoreapp3.1\Exerise_Array.deps.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\Exerise_Array\bin\Debug\netcoreapp3.1\Exerise_Array.runtimeconfig.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\Exerise_Array\bin\Debug\netcoreapp3.1\Exerise_Array.runtimeconfig.dev.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\Exerise_Array\bin\Debug\netcoreapp3.1\Exerise_Array.dll
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\Exerise_Array\bin\Debug\netcoreapp3.1\Exerise_Array.pdb
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\Exerise_Array\obj\Debug\netcoreapp3.1\Exerise_Array.csprojAssemblyReference.cache
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\Exerise_Array\obj\Debug\netcoreapp3.1\Exerise_Array.AssemblyInfoInputs.cache
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\Exerise_Array\obj\Debug\netcoreapp3.1\Exerise_Array.AssemblyInfo.cs
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\Exerise_Array\obj\Debug\netcoreapp3.1\Exerise_Array.csproj.CoreCompileInputs.cache
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\Exerise_Array\obj\Debug\netcoreapp3.1\Exerise_Array.dll
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\Exerise_Array\obj\Debug\netcoreapp3.1\Exerise_Array.pdb
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\Exerise_Array\obj\Debug\netcoreapp3.1\Exerise_Array.genruntimeconfig.cache
