@@ -1,0 +1,12 @@
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\SaoChepMang2\bin\Debug\netcoreapp3.1\SaoChepMang2.exe
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\SaoChepMang2\bin\Debug\netcoreapp3.1\SaoChepMang2.deps.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\SaoChepMang2\bin\Debug\netcoreapp3.1\SaoChepMang2.runtimeconfig.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\SaoChepMang2\bin\Debug\netcoreapp3.1\SaoChepMang2.runtimeconfig.dev.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\SaoChepMang2\bin\Debug\netcoreapp3.1\SaoChepMang2.dll
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\SaoChepMang2\bin\Debug\netcoreapp3.1\SaoChepMang2.pdb
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\SaoChepMang2\obj\Debug\netcoreapp3.1\SaoChepMang2.AssemblyInfoInputs.cache
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\SaoChepMang2\obj\Debug\netcoreapp3.1\SaoChepMang2.AssemblyInfo.cs
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\SaoChepMang2\obj\Debug\netcoreapp3.1\SaoChepMang2.csproj.CoreCompileInputs.cache
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\SaoChepMang2\obj\Debug\netcoreapp3.1\SaoChepMang2.dll
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\SaoChepMang2\obj\Debug\netcoreapp3.1\SaoChepMang2.pdb
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\SaoChepMang2\obj\Debug\netcoreapp3.1\SaoChepMang2.genruntimeconfig.cache

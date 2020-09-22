@@ -1,0 +1,12 @@
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\ReadAndWrite\bin\Debug\netcoreapp3.1\ReadAndWrite.exe
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\ReadAndWrite\bin\Debug\netcoreapp3.1\ReadAndWrite.deps.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\ReadAndWrite\bin\Debug\netcoreapp3.1\ReadAndWrite.runtimeconfig.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\ReadAndWrite\bin\Debug\netcoreapp3.1\ReadAndWrite.runtimeconfig.dev.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\ReadAndWrite\bin\Debug\netcoreapp3.1\ReadAndWrite.dll
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\ReadAndWrite\bin\Debug\netcoreapp3.1\ReadAndWrite.pdb
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\ReadAndWrite\obj\Debug\netcoreapp3.1\ReadAndWrite.AssemblyInfoInputs.cache
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\ReadAndWrite\obj\Debug\netcoreapp3.1\ReadAndWrite.AssemblyInfo.cs
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\ReadAndWrite\obj\Debug\netcoreapp3.1\ReadAndWrite.csproj.CoreCompileInputs.cache
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\ReadAndWrite\obj\Debug\netcoreapp3.1\ReadAndWrite.dll
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\ReadAndWrite\obj\Debug\netcoreapp3.1\ReadAndWrite.pdb
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\ReadAndWrite\obj\Debug\netcoreapp3.1\ReadAndWrite.genruntimeconfig.cache

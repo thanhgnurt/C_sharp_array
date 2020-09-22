@@ -1,0 +1,13 @@
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\TongCacPhanTuCheoTrongMaTran\bin\Debug\netcoreapp3.1\TongCacPhanTuCheoTrongMaTran.exe
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\TongCacPhanTuCheoTrongMaTran\bin\Debug\netcoreapp3.1\TongCacPhanTuCheoTrongMaTran.deps.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\TongCacPhanTuCheoTrongMaTran\bin\Debug\netcoreapp3.1\TongCacPhanTuCheoTrongMaTran.runtimeconfig.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\TongCacPhanTuCheoTrongMaTran\bin\Debug\netcoreapp3.1\TongCacPhanTuCheoTrongMaTran.runtimeconfig.dev.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\TongCacPhanTuCheoTrongMaTran\bin\Debug\netcoreapp3.1\TongCacPhanTuCheoTrongMaTran.dll
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\TongCacPhanTuCheoTrongMaTran\bin\Debug\netcoreapp3.1\TongCacPhanTuCheoTrongMaTran.pdb
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\TongCacPhanTuCheoTrongMaTran\obj\Debug\netcoreapp3.1\TongCacPhanTuCheoTrongMaTran.csprojAssemblyReference.cache
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\TongCacPhanTuCheoTrongMaTran\obj\Debug\netcoreapp3.1\TongCacPhanTuCheoTrongMaTran.AssemblyInfoInputs.cache
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\TongCacPhanTuCheoTrongMaTran\obj\Debug\netcoreapp3.1\TongCacPhanTuCheoTrongMaTran.AssemblyInfo.cs
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\TongCacPhanTuCheoTrongMaTran\obj\Debug\netcoreapp3.1\TongCacPhanTuCheoTrongMaTran.csproj.CoreCompileInputs.cache
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\TongCacPhanTuCheoTrongMaTran\obj\Debug\netcoreapp3.1\TongCacPhanTuCheoTrongMaTran.dll
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\TongCacPhanTuCheoTrongMaTran\obj\Debug\netcoreapp3.1\TongCacPhanTuCheoTrongMaTran.pdb
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Exerise_Array\TongCacPhanTuCheoTrongMaTran\obj\Debug\netcoreapp3.1\TongCacPhanTuCheoTrongMaTran.genruntimeconfig.cache

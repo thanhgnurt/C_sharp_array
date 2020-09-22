@@ -3,17 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exerise_Array", "Exerise_Array\Exerise_Array.csproj", "{CDBC2518-007A-4F6E-BB09-F11AFF906943}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exerise_Array", "Exerise_Array\Exerise_Array.csproj", "{CDBC2518-007A-4F6E-BB09-F11AFF906943}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimTongCuaPhanTuTrongMang", "TimTongCuaPhanTuTrongMang\TimTongCuaPhanTuTrongMang.csproj", "{C99E9BE1-5558-4D7E-AE5D-3534FCC82A6F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimTongCuaPhanTuTrongMang", "TimTongCuaPhanTuTrongMang\TimTongCuaPhanTuTrongMang.csproj", "{C99E9BE1-5558-4D7E-AE5D-3534FCC82A6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaoChepMang", "SaoChepMang\SaoChepMang.csproj", "{93499E28-E130-47A2-8888-631B3511E0AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SaoChepMang", "SaoChepMang\SaoChepMang.csproj", "{93499E28-E130-47A2-8888-631B3511E0AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimSoPhanTuGiongNhau", "TimSoPhanTuGiongNhau\TimSoPhanTuGiongNhau.csproj", "{A6D2FD8B-EA0C-4274-BB5C-68C8038BB943}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimSoPhanTuGiongNhau", "TimSoPhanTuGiongNhau\TimSoPhanTuGiongNhau.csproj", "{A6D2FD8B-EA0C-4274-BB5C-68C8038BB943}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InPhanTuDuyNhatTrongMang", "InPhanTuDuyNhatTrongMang\InPhanTuDuyNhatTrongMang.csproj", "{46BD5AB5-7589-4065-A285-B2424A671318}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InPhanTuDuyNhatTrongMang", "InPhanTuDuyNhatTrongMang\InPhanTuDuyNhatTrongMang.csproj", "{46BD5AB5-7589-4065-A285-B2424A671318}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChenHaiMangVaoNhau", "ChenHaiMangVaoNhau\ChenHaiMangVaoNhau.csproj", "{C8B109A8-2236-4F01-993A-1D6571478FCE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChenHaiMangVaoNhau", "ChenHaiMangVaoNhau\ChenHaiMangVaoNhau.csproj", "{C8B109A8-2236-4F01-993A-1D6571478FCE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReadAndWrite", "ReadAndWrite\ReadAndWrite.csproj", "{03A66EEC-9F3C-4D9F-AFD4-F84C027C2419}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SaoChepMang2", "SaoChepMang2\SaoChepMang2.csproj", "{30A8D328-AEF8-4D4C-81FD-CBC70C0B8389}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NhapInMangHaiChieu", "NhapInMangHaiChieu\NhapInMangHaiChieu.csproj", "{9FF5C864-D422-4A6F-B67F-1986E5ACF1C6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TongCacPhanTuCheoTrongMaTran", "TongCacPhanTuCheoTrongMaTran\TongCacPhanTuCheoTrongMaTran.csproj", "{30837FBB-D63F-45A1-8E8E-D3DF811D7D2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTapOnline", "BaiTapOnline\BaiTapOnline.csproj", "{40B1FCB5-677E-480B-811C-FF82E682182A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +55,26 @@ Global
 		{C8B109A8-2236-4F01-993A-1D6571478FCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8B109A8-2236-4F01-993A-1D6571478FCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8B109A8-2236-4F01-993A-1D6571478FCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03A66EEC-9F3C-4D9F-AFD4-F84C027C2419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03A66EEC-9F3C-4D9F-AFD4-F84C027C2419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03A66EEC-9F3C-4D9F-AFD4-F84C027C2419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03A66EEC-9F3C-4D9F-AFD4-F84C027C2419}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30A8D328-AEF8-4D4C-81FD-CBC70C0B8389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30A8D328-AEF8-4D4C-81FD-CBC70C0B8389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30A8D328-AEF8-4D4C-81FD-CBC70C0B8389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30A8D328-AEF8-4D4C-81FD-CBC70C0B8389}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FF5C864-D422-4A6F-B67F-1986E5ACF1C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FF5C864-D422-4A6F-B67F-1986E5ACF1C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FF5C864-D422-4A6F-B67F-1986E5ACF1C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FF5C864-D422-4A6F-B67F-1986E5ACF1C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30837FBB-D63F-45A1-8E8E-D3DF811D7D2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30837FBB-D63F-45A1-8E8E-D3DF811D7D2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30837FBB-D63F-45A1-8E8E-D3DF811D7D2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30837FBB-D63F-45A1-8E8E-D3DF811D7D2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40B1FCB5-677E-480B-811C-FF82E682182A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40B1FCB5-677E-480B-811C-FF82E682182A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40B1FCB5-677E-480B-811C-FF82E682182A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40B1FCB5-677E-480B-811C-FF82E682182A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
