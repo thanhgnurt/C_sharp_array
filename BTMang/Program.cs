@@ -216,30 +216,240 @@ namespace BTMang
             }
             return maxAm;
         }
+        //Bài 305(*): Tìm dãy con toàn dương có tổng lớn nhất
+        static int IndexEndChildSequence(int[] array)
+        {
+            int sumMax = 0;
+            int sum = 0;
+            int indexPre = -1;
+            //index cuoi day duong lon nhat
+            int indexResult = -1;
+
+            for (int i = 0; i<array.Length; i++)
+            {
+                if (array[i]>=0 )
+                {
+                    sum += array[i];
+                    indexPre = i;
+
+                }
+                if (indexPre < i || i == array.Length - 1)
+                {
+                    if (sumMax < sum)
+                    {
+                        sumMax = sum;
+                        indexResult = indexPre;
+                    }
+                    sum = 0;
+                }
+                
+            }
+            return indexResult;
+        }
+        //Bài 304(*): Cho mảng a, số nguyên M. Tìm 1 mảng con sao cho tổng các phần tử bằng M
+        static int SoSanhM(int[] array, int M, bool first)
+        {
+            for (int i = array.Length-1; i<0; i--)
+            {
+                if (array[i]<M)
+                {
+                    return i;
+                }
+                if (!first && array[i]==M)
+                {
+                    return -2;
+
+                }
+                
+            }
+            return -1;
+        }
+        static int[] TimMangConCoTongM(int[] array,int[] arrayResult, int M)
+        {
+
+            for (int i= 1; i<=array.Length; i++)
+            {
+
+
+            }
+            return arrayResult;
+     
+        }
+        static int[] Child_FindArraySumEvenM(int[] A, int M, int n)
+        {
+            int[] arrayChild = new int[n];
+            for (int i = 0; i<=A.Length-n; i++)
+            {
+                
+                    int index = 0;
+                    for (int j= i; j<n+i; j++)
+                    {
+                        arrayChild[index] = j;
+                        index++;
+                      
+                    }
+                    int sumArray = TinhTongArrayResult(A, arrayChild);
+                    if (sumArray==M)
+                    {
+                        return arrayChild;
+                    } else
+                    {
+                        arrayChild = ResetArrayResult(arrayChild);
+                    }
+                
+            }
+            return arrayChild;
+
+        }
+
+        static void FindArraySumEvenM(int[] A, int M)
+        {
+            int[] newArray;
+            bool flag = false;
+            for (int i =1; i<=A.Length; i++)
+            {
+                newArray = Child_FindArraySumEvenM(A, M, i);
+                if (newArray[0]>=0)
+                {
+                    flag = true;
+                    Console.WriteLine("Mang con bang M:");
+                    HamInMang(newArray);
+                    break;
+                }
+            }
+            if (!flag)
+            {
+                Console.WriteLine("Khong Tim thay mang con nao bang M");
+            }
+
+
+        }
+
+
+        //bai 304 tinh tong cua day ket qua
+        static int TinhTongArrayResult(int[] A, int[] arrayResult)
+        {
+            int sum = 0;
+            for(int i=0; i<arrayResult.Length; i++)
+            {
+                int index = arrayResult[i];
+                if (index >= 0)
+                {
+                    sum += A[index];
+                }
+                else sum=0;
+            }
+            return sum;
+
+        }
+
+        // tim vi tri luu cuoi cung cua day ket qua
+        static int IndexArrayResult(int[] arrayResult)
+        {
+            for (int i = 0; i< arrayResult.Length; i++)
+            {
+                if (arrayResult[i]==-1)
+                {
+                    return i-1;
+                }
+            }
+            return -1;
+        }
+        //reset array result
+        static int[] ResetArrayResult(int[] arrayResult)
+        {
+            for (int i=0; i<arrayResult.Length; i++)
+            {
+                arrayResult[i] = -1;
+            }
+            return arrayResult;
+
+        }
+
+        //Bài 173 (*): Cho mảng 1 chiều các số nguyên. Hãy  viết hàm tìm chữ số xuất hiện ít nhất trong mảng
+        static int[] ArrayTimes(int[] A)
+        {
+            int[] array_times = new int[A.Length];
+            for (int i = 0; i< A.Length; i++)
+            {
+                int count = 0;
+                for (int j = 0; j< A.Length; j++)
+                {
+                    if (A[i]==A[j])
+                    {
+                        count++;
+                    }
+                }
+                // push times into array_times
+                array_times[i] = count;
+            }
+            return array_times;
+        }
+
+        static void TimSoXuatHienItNhat(int[] A)
+        {
+            int[] array_times = ArrayTimes(A);
+            int index_min = TimMin(array_times);
+            Console.WriteLine("So xuat hien it nhat trong mang la:");
+            for (int i=0; i<array_times.Length; i++)
+            {
+                if (array_times[i] == array_times[index_min])
+                {
+                    bool flag = true;
+                    for (int j=0; j<i; j++)
+                    {
+                        if (A[i]==A[j])
+                        {
+                            flag = false;
+                        }
+                     
+                    }
+                    if (flag)
+                    {
+                        Console.WriteLine(A[i]);
+
+                    }
+                }
+            }
+
+        }
 
         //ham nhap mang
         static int[] NhapMang()
         {
             Console.WriteLine("Hay nhap tong so phan tu trong mang:");
             int n = int.Parse(Console.ReadLine());
-            int[] array = new int[n];
-            for (int i = 0; i< array.Length; i++)
+            int[] A = new int[n];
+            for (int i = 0; i< A.Length; i++)
             {
                 Console.WriteLine("Hay nhap phan tu mang thu [{0}]", i);
-                array[i] = int.Parse(Console.ReadLine());
+                A[i] = int.Parse(Console.ReadLine());
             }
-            return array;
+            return A;
         }
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            int[] array = NhapMang();
+            int[] A= NhapMang();
             //122 tim max trong mang
             //Console.WriteLine(TimMax(array));
             //TimViTriMin(array);
-            HamInMang(array);
-            HamInMang(SapXepMangTangDan(array));
-            
+            //HamInMang(array);
+            //HamInMang(SapXepMangTangDan(array));
+            //int index = IndexEndChildSequence(array);
+            //Console.WriteLine(index);
+            int[] arrayResult = new int[A.Length];
+            for (int i = 0; i<arrayResult.Length; i++)
+            {
+                arrayResult[i] = -1;
+            }
+
+            //FindArraySumEvenM(A, 15);
+            TimSoXuatHienItNhat(A);
+
+
+
+           // HamInMang(FindIndexStartArrayChild(A, 5, 15));
 
         }
     }
